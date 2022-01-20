@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to Cezar Castro Rosa's GitHub profile 👋
 
-<!--
-**cecez/cecez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on UOL Edtech as software engineer.
+- 🌱 I’m currently learning: Java, Python, Swift, Node, PHP, back-end stuff, devops stuff, front-end stuff.
+- 🤔 I’m looking for help with how to contribute to open source projects.
+- 💬 Ask me about anything.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/cezar-castro-rosa" target="_blank">LinkedIn</a>   
+- ⚡ Fun facts: Apple consumer. I like to run, play sports (soccer, volleyball, beach tennis, paddle, etc), learn new languages (both computer programming and speaking languages), play videogames, watch TV series/movies/cartoons, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/cecez">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecez&layout=compact&langs_count=10"/>
+</div>
